@@ -6,7 +6,7 @@ module.exports = {
       "Products",
       [
         {
-          id: 1,
+          // id: 1,
           name: "A1",
           qty: 1,
           picture:
@@ -17,7 +17,7 @@ module.exports = {
           updatedAt: new Date(),
         },
         {
-          id: 2,
+          // id: 2,
           name: "B2",
           qty: 2,
           picture:
@@ -28,7 +28,7 @@ module.exports = {
           updatedAt: new Date(),
         },
         {
-          id: 3,
+          // id: 3,
           name: "C3",
           qty: 3,
           picture:
@@ -39,7 +39,7 @@ module.exports = {
           updatedAt: new Date(),
         },
         {
-          id: 4,
+          // id: 4,
           name: "D4",
           qty: 4,
           picture:
@@ -50,7 +50,7 @@ module.exports = {
           updatedAt: new Date(),
         },
         {
-          id: 5,
+          // id: 5,
           name: "E5",
           qty: 5,
           picture:
